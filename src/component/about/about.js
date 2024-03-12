@@ -31,15 +31,7 @@ export default function About() {
           </div>
           <div className="aboutcontent anta-regular">
             <h4 >
-              "Saintgits College of Engineering presents NAKSHATRA 2024, the
-              annual techno-cultural fest. It is hosted every year to recognise
-              fledgling engineers who have a flair of technical expertise and
-              artistry. It is one of the most eminent fests with more than 4000
-              entrants from across the nation. This extravaganza unfolds a
-              two-day mega event that transports you into a new realm. Get
-              enraptured in performances by budding engineers and artists that
-              will leave you spellbound. Join in to be a part of our exquisite
-              fest, NAKSHATRA 2024"
+
             </h4>
           </div>
         </div>
