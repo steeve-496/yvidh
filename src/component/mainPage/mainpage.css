@@ -1,0 +1,60 @@
+.mainpagecontainer{
+    z-index: -2;
+}
+.mainpgcontainerinner{
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: black;
+    z-index:0;
+}
+.MainParallax{
+    height: 100vh;
+    width: 100vw;
+    position: absolute !important;
+}
+.bhdg_hds{
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bjha_jia{
+    width:60%;
+    height: auto;
+    min-width: 30vw;
+    
+}
+.hbh_ki{
+    margin-top: 8vh;
+    max-width: 100%;
+    width: 15vw;
+    min-width: 10%;
+    height: auto;
+}
+.hbh_ki>img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .bjha_jia{
+        width: 80%;
+    }
+    .hbh_ki{
+        width: 30vw;
+    }
+}

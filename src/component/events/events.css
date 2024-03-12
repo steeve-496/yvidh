@@ -1,0 +1,15 @@
+.maineventcontainer{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(24, 14, 14);
+    display: flex;
+    flex-direction: column;
+}
+.eventheading.anta-regular{
+    height: fit-content;
+    margin:50px 0 0 30px;
+    color: white;
+}
+.eventheading{
+    font-size: 5vw;
+}
